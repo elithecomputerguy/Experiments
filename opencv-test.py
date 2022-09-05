@@ -1,3 +1,7 @@
+#This code draws circles around face and eyes, AND writes X/Y coordinates of Face to upper left of screen.
+#Video capture -  https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html
+#Writing Text - https://www.geeksforgeeks.org/python-opencv-write-text-on-video/
+
 from __future__ import print_function
 import cv2 as cv
 import argparse
